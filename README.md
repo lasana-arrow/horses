@@ -10,7 +10,9 @@ You can store an information about your horses there and sort by
   - awards
   - and many many more
 
-It was written for a website https://1k-horse.com/ so you can see how it works there
+It was written for a website https://1k-horse.com/ so you can see how it works there.
+
+Right now it is in Russian. If you want me to do the localisation - write me sagittarius.group@gmail.com
 
 <h2>How to use it</h2>
 1. Download horses.zip and install it as a plugin on your Wordpress website<br>
